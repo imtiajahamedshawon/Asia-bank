@@ -12,7 +12,7 @@ document.getElementById('login-submit').addEventListener('click',function(){
   
     // check email and password
 
-    if(userEmail == 'imtiajahamed6161@gmail.com' && userPassword == 'secret'){
+    if(userEmail == 'imtiaj@gmail.com' && userPassword == 'shawon'){
      window.location.href = 'banking.html'
     }
 });
